@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "ilk yazı"
+date:   2021-06-17 18:32:06 +0000
+categories: blog
+---
+
+Evet sonunda internette anonim kalarak bir şeyleri yazıp çizme konusunda paranoyaklık seviyemi arşa çıkardım ve evet, artık burdayım. Aranızdayım kıymetli kardeşlerim :P.
+
+Bir sonraki yazım internette nasıl anonim kalacağınızı, daha doğrusu nasıl anonimliğe en yakın olacağınızı anlatacak. İzlemede kalın.
