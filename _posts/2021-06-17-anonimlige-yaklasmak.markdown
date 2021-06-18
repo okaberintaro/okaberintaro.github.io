@@ -21,31 +21,51 @@ Siz TOR'a bağlandığınız zaman öncelikle TOR ağında bunu işletecek bir n
 Yani şöyle çalışıyor aslında node sistemi (ülkeleri örnek verdim):
 
 Sizin internetiniz -> Node 1 (Fransa)
+
 Node 1 (Fransa) -> Node 2 (Almanya)
+
 Node 2 (Almanya) -> Node 3 (Belarus)
+
 ...
+
 Node 5 (Macaristan) -> Node 6 (Japonya)
 
 Yani bulunduğunuz ülkeden bir giriyorsunuz, Japonya'dan çıkıyorsunuz. Japonya'dan çıkana kadar da farklı ülkelerde bulunan makinelerden gir-çık yaparak direkt olarak takip edilmesi çok zor olan bir hale getiriyorsunuz.
 Ancak ve ancak! Buraya dikkat. Eğer bu örneğimizde Fransa'da bulunan Node 1'deki kişi loglamayı açtıysa, işte sizi takip etmek isteyen birisinin eline düşerse eğer bu Node 1, o zaman anonimlik falan yalan olur. Yani gene takip edilmesi zor ama sizi takip etmek için elinde TOR Node'u bulundurabilecek kapasitede birisi, burdaki loglarınızla geriye dönük takip yapma yeteneğine de muhtemelen sahiptir.
 
+
 Bu yüzden de gene dikkatli olmakta fayda var. Tabii buna karşı ne yapabilirsiniz? Zaten Whonix sitesinde de dediği gibi, eğer maksimum anonim olmak istiyorsanız, bu alemde, asla ama asla kendiniz olmayacaksınız.
 Kendinizle alakalı bağlantısı bulunan en ufak bir hesabı bile kullanmayacaksınız. Whonix'i açmadan önce, TOR network'e çıkmadan önce bile VPN kullanacaksınız. Bu bağlantı hızınızı olumsuz yönde etkilese de zaten anonim bir şekilde oturup da 4k video izlemeyeceksiniz herhalde.
 
+
 Aşağıda maddeleri sıralayalım:
+
 1- Whonix imajını şifreli bir şekilde, gene şifreli olan bir disk içerisinde saklayın.
+
 2- Parolalarınız için Whonix içinde bulunan Keepas'i kullanın ve kesinlikle bu parolaları host bilgisayara (yani Virtualbox'un kurulu olduğu bilgisayara) çıkartmayın.
+
 3- DNS-Over-TLS kullanın. DNS-Over-HTTPS de iş görür ama "it's an ugly hack" yani çirkin. DOT kullanın yani.
+
 4- Whonix'e bağlanmadan önce bir VPN üzerinden bağlanın mutlaka. Eğer mümkünse İsviçre tabanlı bir sanal makine sağlayıcısı, host sağlayıcısı bir yerlerden server alıp sonrasında OpenVPN setup'ıyla giriş yapın. OpenVPN ayarlamalarını da obfsproxy kullanacak şekilde yapın.
+
 5- Whonix'i kesinlikle kendiniz olarak kullanmayın. Bir persona oluşturun kendinize ve her zaman o şekilde kullanın.
+
 6- Hava basmak için sağa sola bunu anlatmayın. Kendinizi hedef haline getirmeyin.
+
 7- Tarayıcınızda Javascript'leri açmayın.
+
 8- Whonix üzerinde kullandığınız hesaplarınıza, kendi Whonix imajınız hariç bir yerden erişmeyin.
+
 9- Tarayıcınızı tam ekran yapmayın. Her zaman açıldığı ekranda gezin.
+
 10- Host saatiniz ile guest saatiniz de farklı olsun.
+
 11- Ne olduğunu biliyorsanız I2P kullanın.
+
 12- Bilmediğiniz şeyleri bilgisayarınızda çalıştırmayın.
 
+
 Tavsiyelerim bu kadar. Elbette unuttuklarım da vardır. Her gün bizi takip eden ve her hareketimizi dava etmeye hazır bekleyen hükümetin radarından bu şekilde sıyrılabilir, istediğiniz her türlü şeyi bu şekilde yapabilirsiniz. Hadi bakalım geçmiş olsun.
+
 
 İlerleyen dönemlerde "TOR üzerinde web sitesi kurmak ve işletmek" kısmını şöyle özet halinde sizlere anlatacağım
