@@ -47,3 +47,5 @@ Aşağıda maddeleri sıralayalım:
 12- Bilmediğiniz şeyleri bilgisayarınızda çalıştırmayın.
 
 Tavsiyelerim bu kadar. Elbette unuttuklarım da vardır. Her gün bizi takip eden ve her hareketimizi dava etmeye hazır bekleyen hükümetin radarından bu şekilde sıyrılabilir, istediğiniz her türlü şeyi bu şekilde yapabilirsiniz. Hadi bakalım geçmiş olsun.
+
+İlerleyen dönemlerde "TOR üzerinde web sitesi kurmak ve işletmek" kısmını şöyle özet halinde sizlere anlatacağım
