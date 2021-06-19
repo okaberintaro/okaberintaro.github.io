@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sedat Peker Öldü Mü?"
-date:   2021-06-19 18:32:06 +0000
+date:   2021-06-19 00:00:00 +0000
 categories: blog
 ---
 
